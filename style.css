@@ -23,15 +23,6 @@ p {
     text-align: left
 }
 
-image {
-    text-align: left;
-    padding: 10px 20px;
-}
-
-.img1{
-    background-image: url(/Image/811829654.jpg);
-}
-
 .tee {
     text-align: right;
 }
